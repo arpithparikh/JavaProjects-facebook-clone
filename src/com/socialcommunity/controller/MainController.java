@@ -27,6 +27,7 @@ import com.socialcommunity.service.PersonService;
  * Handles and retrieves User request
  */
 
+//This is main controller
 @Controller
 public class MainController {
 
